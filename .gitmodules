@@ -1,0 +1,3 @@
+[submodule "build-deps/ssat"]
+	path = build-deps/ssat
+	url = git@github.com:FailMan3D/ssat.git
